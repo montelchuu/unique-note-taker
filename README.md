@@ -2,6 +2,9 @@
   # unique-note-taker
   ### license: Unlicensed [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
+  # Deployed App:
+  https://unique-note-taker-montelchuu.herokuapp.com/
+  
   ### Github URL: [montelchuu](https://github.com/montelchuu/)
 
   # Description
