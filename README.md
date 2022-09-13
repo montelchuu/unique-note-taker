@@ -23,6 +23,12 @@
 
   # Usage
   In order to use this app, the user will need to clone this repo and run it locally, using "npm start" and then going to localhost:3001.
+  
+ Homepage 
+ ![](public/assets/images/note-taker-index.jpg)
+ 
+ Notes page
+ ![](public/assets/images/note-taker-notes.jpg)
 
   # License
   Lincenses are listed as the following:
