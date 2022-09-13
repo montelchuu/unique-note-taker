@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "uniqid": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montelchuu/unique-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/montelchuu/unique-note-taker/issues"
+  },
+  "homepage": "https://github.com/montelchuu/unique-note-taker#readme"
 }
